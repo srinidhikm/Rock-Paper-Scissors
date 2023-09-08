@@ -1,0 +1,54 @@
+body
+{
+    background-color: rgb(150, 115, 233);
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Rubik', sans-serif;
+    color: whitesmoke;
+    text-shadow: 3px 0 rgb(235, 110, 225);
+}
+
+h1
+{
+    margin-top: 70px;
+    font-size: 4rem;
+}
+
+.opt
+{
+    height: 150px;
+    width: 150px;
+    margin: 20px;
+    border-radius: 20%;
+    font-size: 5rem;
+    border: 10px solid rgb(235, 110, 225);
+    text-shadow: 3px 0 rgb(235, 110, 225);
+}
+
+.shadow
+{
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.473)
+}
+
+span
+{
+    font-size: 2rem;
+}
+
+.res
+{   
+    margin-top: 40px;
+    margin-left: 25%;
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+}
+
+.result
+{
+
+    width: 80%;
+    margin: 3% 10%;
+    display: grid;
+    grid-template-columns: 1fr 1fr
+}
