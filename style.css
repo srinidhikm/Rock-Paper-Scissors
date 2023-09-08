@@ -23,6 +23,7 @@ h1
     font-size: 5rem;
     border: 10px solid rgb(235, 110, 225);
     text-shadow: 3px 0 rgb(235, 110, 225);
+    text-align: center;
 }
 
 .shadow
